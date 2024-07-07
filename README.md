@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?pause=1&size=46&color=f75c7e&center=True&width=1200&height=120&vCenter=True&lines=Please+⭐+what+you+use;Questions+can+be+asked+in+Issues" />
 
-_This curated list features recommended extensions for the Salesforce Code Builder, and aims to connect Trailblazers all over the world to ask questions and share their learnings and experiences 💖_
+_This curated list of recommended Salesforce Code Builder extensions aims to help Trailblazers worldwide connect, ask questions, and share their experiences 💖_
 
 - [Quick Install](#quick-install)
 - [Official Salesforce Extensions](#official-salesforce-extensions)
