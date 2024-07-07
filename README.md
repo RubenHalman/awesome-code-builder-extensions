@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?pause=1&size=46&color=f75c7e&center=True&width=1200&height=120&vCenter=True&lines=Please+⭐+what+you+use;Questions+can+be+asked+in+Issues" />
 
-_This curated list features recommended extensions for the Salesforce Code Builder, available on the [Open VSX Registry](https://open-vsx.org/), and aims to connect Trailblazers all over the world to share their learnings and experiences 💖_
+_This curated list features recommended extensions for the Salesforce Code Builder, and aims to connect Trailblazers all over the world to ask questions and share their learnings and experiences 💖_
 
 - [Quick Install](#quick-install)
 - [Official Salesforce Extensions](#official-salesforce-extensions)
@@ -42,7 +42,7 @@ This will automatically install and pre-configure all the recommended extensions
 
 <img src="img/sf-ext-pack.gif">
 
-<a href="#code-builder-extensions">Back to top</a>
+<a href="#awsm-code-builder-exts">Back to top</a>
 
 ---
 
@@ -55,7 +55,7 @@ This will automatically install and pre-configure all the recommended extensions
 
 <img src="img/apex-log-analyzer.gif">
 
-<a href="#code-builder-extensions">Back to top</a>
+<a href="#awsm-code-builder-exts">Back to top</a>
 
 ---
 
@@ -69,7 +69,7 @@ This will automatically install and pre-configure all the recommended extensions
 
 <img src="img/apex-pmd.gif">
 
-<a href="#code-builder-extensions">Back to top</a>
+<a href="#awsm-code-builder-exts">Back to top</a>
 
 ---
 
@@ -80,7 +80,7 @@ This will automatically install and pre-configure all the recommended extensions
 
 <img src="img/lightning-flow-scanner.gif">
 
-<a href="#code-builder-extensions">Back to top</a>
+<a href="#awsm-code-builder-exts">Back to top</a>
 
 ---
 
@@ -91,7 +91,7 @@ This will automatically install and pre-configure all the recommended extensions
 
 <img src="img/flow-visualiser.gif">
 
-<a href="#code-builder-extensions">Back to top</a>
+<a href="#awsm-code-builder-exts">Back to top</a>
 
 ---
 
@@ -102,6 +102,6 @@ This will automatically install and pre-configure all the recommended extensions
 
 <img src="img/sfdx-hardis.gif">
 
-<a href="#code-builder-extensions">Back to top</a>
+<a href="#awsm-code-builder-exts">Back to top</a>
 
 ---
