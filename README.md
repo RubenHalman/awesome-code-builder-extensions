@@ -19,7 +19,7 @@ _This curated list of recommended Salesforce Code Builder extensions aims to hel
 
 To quickly set up Code Builder with all the recommended packages, follow these steps:
 
-1. Download and unzip the [Awesome Code Builder Profile](https://gist.github.com/RubenHalman/edabc6426c4addbc9a3554bdccf724fe/archive/acc9198e44c216a680c014ececd54f4f6d3d3c49.zip).
+1. [Click here](https://gist.github.com/RubenHalman/edabc6426c4addbc9a3554bdccf724fe/archive/acc9198e44c216a680c014ececd54f4f6d3d3c49.zip) to download the Awesome Code Builder Profile.
 2. Open Code Builder and import the profile file:
     - Go to **Settings** > **Profiles** > **Import Profile**.
     - Select the profile file `acbe.code-profile.txt`.
